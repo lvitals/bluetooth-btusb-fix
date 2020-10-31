@@ -2,8 +2,7 @@
 
 Bluetooth: hci0: don't support firmware rome 0x11020000
 
-Ubuntu 4.15 bluetooth source code patched with https://bugzilla.opensuse.org/attachment.cgi?id=770190 [*TakashiIwai]
-
+Bluetooth source code patched with https://bugzilla.opensuse.org/attachment.cgi?id=770190 [*TakashiIwai]
 
 Should fix Ubuntu Bug https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1764645
 
